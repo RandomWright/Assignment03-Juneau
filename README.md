@@ -5,10 +5,12 @@ Updated Team Portfolio Website:
 http://docs.urcsc174.org/assignment03-updated-team-portfolio/instructions.html
 
 
-## Ideas:
+## Ideas for Website:
 https://github.com/RandomWright/Assignment03-Juneau/wiki/Ideas
 
 
-IA: Charlotte Wright
-DA: Fiona Jones
-Code: Luis Nova
+Information Architect: Charlotte Wright
+
+Design Artist: Fiona Jones
+
+Technical Coder: Luis Nova
