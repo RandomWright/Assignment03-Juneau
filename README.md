@@ -6,16 +6,9 @@ http://docs.urcsc174.org/assignment03-updated-team-portfolio/instructions.html
 
 
 ## Ideas:
-<img src="https://github.com/RandomWright/Assignment03-Juneau/blob/master/ideas/idea1.png" alt="Page layout" width="300">
-
-* Graph on top of page
-* Nav is up or down trend lines
-![up](https://github.com/RandomWright/Assignment03-Juneau/blob/master/ideas/arrowUp.png)
-![down](https://github.com/RandomWright/Assignment03-Juneau/blob/master/ideas/arrowDown.png)
-* Color: #E8F7FC ?
-* Split into columns
+https://github.com/RandomWright/Assignment03-Juneau/wiki/Ideas
 
 
-### Javascript ideas:
-* Chart like this? http://www.chartjs.org/samples/latest/charts/line/basic.html
-* Calculator https://github.com/rcoelros/jquery-blackCalculator
+IA: Charlotte Wright
+DA: Fiona Jones
+Code: Luis Nova
