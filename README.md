@@ -6,7 +6,7 @@ http://docs.urcsc174.org/assignment03-updated-team-portfolio/instructions.html
 
 
 ## Ideas:
-![page layout](https://github.com/RandomWright/Assignment03-Juneau/blob/master/ideas/idea1.png)
+<img src="https://github.com/RandomWright/Assignment03-Juneau/blob/master/ideas/idea1.png" alt="Page layout" width="300">
 
 * Graph on top of page
 * Nav is up or down trend lines
