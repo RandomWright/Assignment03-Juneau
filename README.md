@@ -14,3 +14,8 @@ http://docs.urcsc174.org/assignment03-updated-team-portfolio/instructions.html
 ![down](https://github.com/RandomWright/Assignment03-Juneau/blob/master/ideas/arrowDown.png)
 * Color: #E8F7FC ?
 * Split into columns
+
+
+### Javascript ideas:
+* Chart like this? http://www.chartjs.org/samples/latest/charts/line/basic.html
+* Calculator https://github.com/rcoelros/jquery-blackCalculator
