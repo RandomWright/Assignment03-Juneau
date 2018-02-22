@@ -10,6 +10,7 @@ http://docs.urcsc174.org/assignment03-updated-team-portfolio/instructions.html
 
 * Graph on top of page
 * Nav is up or down trend lines
-![arrow](https://github.com/RandomWright/Assignment03-Juneau/blob/master/ideas/arrowUp.png)
+![up](https://github.com/RandomWright/Assignment03-Juneau/blob/master/ideas/arrowUp.png)
+![down](https://github.com/RandomWright/Assignment03-Juneau/blob/master/ideas/arrowDown.png)
 * Color: #E8F7FC ?
 * Split into columns
