@@ -9,8 +9,8 @@ http://docs.urcsc174.org/assignment03-updated-team-portfolio/instructions.html
 https://github.com/RandomWright/Assignment03-Juneau/wiki/Ideas
 
 
-Information Architect: Charlotte Wright
+Information Architect: Charlotte Wright (RandomeWright)
 
-Design Artist: Fiona Jones
+Design Artist: Fiona Jones (Vinciace)
 
-Technical Coder: Luis Nova
+Technical Coder: Luis Nova (LudwigNova)
