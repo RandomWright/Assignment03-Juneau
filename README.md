@@ -5,10 +5,11 @@ Updated Team Portfolio Website:
 http://docs.urcsc174.org/assignment03-updated-team-portfolio/instructions.html
 
 
-## Ideas for Website:
+## Ideas for Website
 https://github.com/RandomWright/Assignment03-Juneau/wiki/Ideas
 
 
+## Team
 Information Architect: Charlotte Wright (RandomeWright)
 
 Design Artist: Fiona Jones (Vinciace)
