@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Anton');
+
+.container {
+  margin-top: 7.5%;
+  padding-bottom: 15%;
+}
+
+.right {
+  background-color: rgba(0,0,0,0.10);
+  padding-top: 0.5%;
+  padding-bottom: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.mainPageLanding {
+  width: 100%;
+  height: 100%;
+  background-image: url("../images/stockExchange.png");
+}
+
+.mainPageOverlay {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(145,163,251,0.25);
+}
+
+.mainPageTitle {
+  font-family: 'Rubik', sans-serif;
+  position: relative;
+  margin: auto;
+  text-align: center;
+  text-shadow: 1.5px 1.5px 6px #000000;
+  padding-top: 17.5%;
+  width: 75%;
+  font-size: 65pt;
+  font-weight: bold;
+  color: white
+}
+
+.mainPageSubText{
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-shadow: 1.5px 1.5px 6px #000000;
+  font-size: 15pt;
+  font-style: italic;
+  color: white
+}
+
+img {
+  width: 300px;
+  background-color: rgba(0,0,0,0.25);
+  padding: 2.5%;
+}
+
+small {
+  color: #999;
+}
+
+html body {
+  background-color: #E8F7FC;
+}
