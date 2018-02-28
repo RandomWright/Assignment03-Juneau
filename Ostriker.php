@@ -13,7 +13,8 @@
 </head>
 
 <body> <!-- put idea of how it might look in ideas folder -->
-	
+
+	<?php $active='Ostriker';?>
 	<?php include 'inc/navigation.inc';?>
 
 	<div class="container"> <!-- Picture of graph at top of page -->

@@ -14,6 +14,7 @@
 
 <body><!-- put idea of how it might look in ideas folder -->
 
+	<?php $active='Aziz';?>
 	<?php include 'inc/navigation.inc';?>
 
 	<div class="container">

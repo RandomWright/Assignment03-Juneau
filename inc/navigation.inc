@@ -14,9 +14,9 @@
 	    <!-- Collect the nav links, forms, and other content for toggling -->
 	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav">
-	        <li><a href="Aziz.php">Zubair Aziz</a></li>
-	        <li><a href="Ostriker.php">Oliver Ostriker</a></li>
-					<li><a href="Yang.php">Jimmy Yang</a></li>
+	        <li><a href="Aziz.php" class="<?php echo ($active == 'Aziz' ? "active" : "");?>">Zubair Aziz</a></li>
+	        <li><a href="Ostriker.php" class="<?php echo ($active == 'Ostriker' ? "active" : "");?>">Oliver Ostriker</a></li>
+					<li><a href="Yang.php" class="<?php echo ($active == 'Yang' ? "active" : "");?>">Jimmy Yang</a></li>
 	      </ul>
 			</div>
 		</div>
