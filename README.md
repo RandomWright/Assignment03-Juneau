@@ -12,6 +12,6 @@ https://github.com/RandomWright/Assignment03-Juneau/wiki/Ideas
 ## Team
 Information Architect: Charlotte Wright (RandomeWright)
 
-Design Artist: Fiona Jones (Vinciace)
+Design Artist: Luis Nova (LudwigNova) 
 
-Technical Coder: Luis Nova (LudwigNova)
+Technical Coder: Fiona Jones (Vinciace)
