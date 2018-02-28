@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -6,7 +8,7 @@
 	<title>Assignment 03</title>
 	<link rel="stylesheet" type ="text/css" href="css/override.css">
   <link rel="stylesheet" type ="text/css" href="css/animate.css">
-  <link rel="stylesheet" href="css/bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
+  <link rel="stylesheet" type ="text/css" href="css/bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
 	<script src="css/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
@@ -18,7 +20,7 @@
   <div class="mainPageLanding">
 		<div class="video-bg-container">
 			<video autoplay muted loop id="myVideo">
-	  		<source src="images/Very-Open-Space.webm" poster= "images/Very-Open-Space.jpg" type="video/webm">
+	  		<source src="images/Very-Open-Space.webm" type="video/webm">
 			</video>
 		</div>
     <div class="mainPageOverlay">
