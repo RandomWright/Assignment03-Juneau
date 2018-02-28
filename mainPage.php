@@ -12,10 +12,15 @@
 </head>
 
 <body>
- 
+
 	<?php include 'inc/navigation.inc';?>
 
   <div class="mainPageLanding">
+		<div class="video-bg-container">
+			<video autoplay muted loop id="myVideo">
+	  		<source src="images/Very-Open-Space.webm" poster= "images/Very-Open-Space.jpg" type="video/webm">
+			</video>
+		</div>
     <div class="mainPageOverlay">
       <div class="animated fadeIn">
         <div class="mainPageTitle">

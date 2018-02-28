@@ -16,7 +16,7 @@
 	      <ul class="nav navbar-nav">
 	        <li><a href="Aziz.php">Zubair Aziz</a></li>
 	        <li><a href="Ostriker.php">Oliver Ostriker</a></li>
-			<li><a href="Yang.php">Jimmy Yang</a></li>
+					<li><a href="Yang.php">Jimmy Yang</a></li>
 	      </ul>
 			</div>
 		</div>
