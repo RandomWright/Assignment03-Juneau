@@ -7,35 +7,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Assignment 03</title>
 	<link rel="stylesheet" type ="text/css" href="css/override.css">
-  <link rel="stylesheet" href="css/bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
 	<script src="css/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 
 <body> <!-- put idea of how it might look in ideas folder -->
-	<nav class="navbar navbar-inverse  navbar-fixed-top">
-	  <div class="container-fluid">
-	    <!-- Brand and toggle get grouped for better mobile display -->
-	    <div class="navbar-header">
-	      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="bs-example-navbar-collapse-1">
-	        <span class="sr-only">Toggle navigation</span>
-	        <span class="icon-bar"></span>
-	        <span class="icon-bar"></span>
-	        <span class="icon-bar"></span>
-	      </button>
-	      <a class="navbar-brand" href="mainPage.html">Economics</a>
-	    </div>
-
-	    <!-- Collect the nav links, forms, and other content for toggling -->
-	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
-	      <ul class="nav navbar-nav">
-	        <li><a href="Aziz.html">Zubair Aziz</a></li>
-	        <li class="active"><a href="Ostriker.html">Oliver Ostriker<span class="sr-only">(current)</span></a></li>
-					<li><a href="Yang.html">Jimmy Yang</a></li>
-	      </ul>
-			</div>
-		</div>
-	</nav>
+	
+	<?php include 'inc/navigation.inc';?>
 
 	<div class="container"> <!-- Picture of graph at top of page -->
 		<div class="row">
